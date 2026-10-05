@@ -1,0 +1,14 @@
+{
+  "name": "mawhibeen-weekly-plan",
+  "version": "2.0.0",
+  "private": true,
+  "description": "نظام خطة التعلم الأسبوعية - الموهبين الرياضية",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "check": "node --check src/server.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED"
+}
